@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-st-patrick-catholic-church-cumberland-md-360-1",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 1",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -86,7 +86,7 @@ var APP_DATA = {
     },
     {
       "id": "1-st-patrick-catholic-church-cumberland-md-360-2",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 2",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -170,7 +170,7 @@ var APP_DATA = {
     },
     {
       "id": "2-st-patrick-catholic-church-cumberland-md-360-3",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 3",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -242,7 +242,7 @@ var APP_DATA = {
     },
     {
       "id": "3-st-patrick-catholic-church-cumberland-md-360-4",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 4",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -308,7 +308,7 @@ var APP_DATA = {
     },
     {
       "id": "4-st-patrick-catholic-church-cumberland-md-360-5",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 5",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -380,7 +380,7 @@ var APP_DATA = {
     },
     {
       "id": "5-st-patrick-catholic-church-cumberland-md-360-6",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 6",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -452,7 +452,7 @@ var APP_DATA = {
     },
     {
       "id": "6-st-patrick-catholic-church-cumberland-md-360-7",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 7",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -542,7 +542,7 @@ var APP_DATA = {
     },
     {
       "id": "7-st-patrick-catholic-church-cumberland-md-360-8",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 8",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -608,7 +608,7 @@ var APP_DATA = {
     },
     {
       "id": "8-st-patrick-catholic-church-cumberland-md-360-9",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 9",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -674,7 +674,7 @@ var APP_DATA = {
     },
     {
       "id": "9-st-patrick-catholic-church-cumberland-md-360-10",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 10",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -728,7 +728,7 @@ var APP_DATA = {
     },
     {
       "id": "10-st-patrick-catholic-church-cumberland-md-360-11",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 11",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -794,7 +794,7 @@ var APP_DATA = {
     },
     {
       "id": "11-st-patrick-catholic-church-cumberland-md-360-12",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 12",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -890,7 +890,7 @@ var APP_DATA = {
     },
     {
       "id": "12-st-patrick-catholic-church-cumberland-md-360-13",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 13",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -944,7 +944,7 @@ var APP_DATA = {
     },
     {
       "id": "13-st-patrick-catholic-church-cumberland-md-360-14",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 14",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1022,7 +1022,7 @@ var APP_DATA = {
     },
     {
       "id": "14-st-patrick-catholic-church-cumberland-md-360-15",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 15",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1106,7 +1106,7 @@ var APP_DATA = {
     },
     {
       "id": "15-st-patrick-catholic-church-cumberland-md-360-16",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 16",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1172,7 +1172,7 @@ var APP_DATA = {
     },
     {
       "id": "16-st-patrick-catholic-church-cumberland-md-360-17",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 17",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1220,7 +1220,7 @@ var APP_DATA = {
     },
     {
       "id": "17-st-patrick-catholic-church-cumberland-md-360-18",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 18",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1268,7 +1268,7 @@ var APP_DATA = {
     },
     {
       "id": "18-st-patrick-catholic-church-cumberland-md-360-19",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 19",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1364,7 +1364,7 @@ var APP_DATA = {
     },
     {
       "id": "19-st-patrick-catholic-church-cumberland-md-360-20",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 20",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1442,7 +1442,7 @@ var APP_DATA = {
     },
     {
       "id": "20-st-patrick-catholic-church-cumberland-md-360-21",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 21",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1526,7 +1526,7 @@ var APP_DATA = {
     },
     {
       "id": "21-st-patrick-catholic-church-cumberland-md-360-22",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 22",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1616,7 +1616,7 @@ var APP_DATA = {
     },
     {
       "id": "22-st-patrick-catholic-church-cumberland-md-360-23",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 23",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1700,7 +1700,7 @@ var APP_DATA = {
     },
     {
       "id": "23-st-patrick-catholic-church-cumberland-md-360-24",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 24",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1784,7 +1784,7 @@ var APP_DATA = {
     },
     {
       "id": "24-st-patrick-catholic-church-cumberland-md-360-25",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 25",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1886,7 +1886,7 @@ var APP_DATA = {
     },
     {
       "id": "25-st-patrick-catholic-church-cumberland-md-360-26",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 26",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -1988,7 +1988,7 @@ var APP_DATA = {
     },
     {
       "id": "26-st-patrick-catholic-church-cumberland-md-360-27",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 27",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -2096,7 +2096,7 @@ var APP_DATA = {
     },
     {
       "id": "27-st-patrick-catholic-church-cumberland-md-360-28",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 28",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -2216,7 +2216,7 @@ var APP_DATA = {
     },
     {
       "id": "28-st-patrick-catholic-church-cumberland-md-360-29",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 29",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -2276,7 +2276,7 @@ var APP_DATA = {
     },
     {
       "id": "29-st-patrick-catholic-church-cumberland-md-360-30",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 30",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -2348,7 +2348,7 @@ var APP_DATA = {
     },
     {
       "id": "30-st-patrick-catholic-church-cumberland-md-360-31",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 31",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -2438,7 +2438,7 @@ var APP_DATA = {
     },
     {
       "id": "31-st-patrick-catholic-church-cumberland-md-360-32",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 32",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -2564,7 +2564,7 @@ var APP_DATA = {
     },
     {
       "id": "32-st-patrick-catholic-church-cumberland-md-360-33",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 33",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -2684,7 +2684,7 @@ var APP_DATA = {
     },
     {
       "id": "33-st-patrick-catholic-church-cumberland-md-360-34",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 34",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
@@ -2744,7 +2744,7 @@ var APP_DATA = {
     },
     {
       "id": "34-st-patrick-catholic-church-cumberland-md-360-35",
-      "name": "St. Patrick Catholic Church Cumberland, MD 360 35",
+      "name": "St. Patrick Catholic Church Cumberland, MD",
       "levels": [
         {
           "tileSize": 256,
